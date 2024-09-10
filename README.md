@@ -10,9 +10,7 @@ Welcome to **Gen Z Market News**, a project that gathers market news and rewrite
 - [Installation](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
